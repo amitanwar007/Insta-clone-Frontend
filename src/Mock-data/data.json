@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "Siva",
+      "location": "Bengaluru",
+      "likes": 64,
+      "description": "Kick start your career",
+      "PostImage": "https://scontent-del1-2.xx.fbcdn.net/v/t39.30808-6/312871709_523952753084734_5267302683212079364_n.png?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=qgqmR4Kj9wAAX8OPuJZ&_nc_ht=scontent-del1-2.xx&oh=00_AfCYVLRIrPexmSBORFtXQlW4BIOEagcDEZ74v1C-FNX8Sg&oe=63723A4A",
+      "date": "12/02/2022"
+    },
+    {
+      "name": "Sumit",
+      "location": "Haryana",
+      "likes": 300,
+      "description": "Nature is my best friend",
+      "PostImage": "https://images.thrillophilia.com/image/upload/s--_Xp6t_y4--/c_fill,f_auto,fl_strip_profile,h_600,q_auto,w_975/v1/images/photos/000/127/512/original/1524635958_shutterstock_709472335.jpg.jpg?1524635958",
+      "date": "15/05/2022"
+    },
+    {
+      "name": "Rahul",
+      "location": "Hyderabad",
+      "likes": 30,
+      "description": "I love Car Driving",
+      "PostImage": "https://imgd.aeplcdn.com//642x361//n/cw/ec/49928/audi-q8-right-front-three-quarter260.jpeg?wm=1&q=75",
+      "date": "10/06/2022"
+    }
+  ]
+}
