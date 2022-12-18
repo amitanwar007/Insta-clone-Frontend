@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import img from "../imgs/IMG.jpg";
+import img from "../imgs/IMG.png";
 export default function Landing_page() {
   const routes = [{ key: "Enter", route: "/postview" }];
   return (
